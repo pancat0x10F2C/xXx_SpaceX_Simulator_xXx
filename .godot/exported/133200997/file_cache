@@ -1,2 +1,5 @@
 res://Level/level.tscn::e519b18a5c5a82d8f7c9e028b677666b::1759388278::res://.godot/exported/133200997/export-c4be25a6cd29300dd9cba31c4cc13b7a-level.scn
 res://player.tscn::e079c70751e2ec33c6ae90c6f2514a9f::1759388278::res://.godot/exported/133200997/export-36a25e342948d0ceacc500772b5412b3-player.scn
+res://addons/godot_super-wakatime/api_key_prompt.tscn::a6988a5ba43d5aa92a08f216c1db28db::1759428379::res://.godot/exported/133200997/export-cd8705cb5e2533bd79c64579ac674dae-api_key_prompt.scn
+res://addons/godot_super-wakatime/counter.tscn::7f13ad35960e259f6de719f9785ce249::1759428379::res://.godot/exported/133200997/export-4af6c9115c1c285af5925fa1ce6a526e-counter.scn
+res://Test.tscn::9745d3afc3dd40f349aa41f53b4acb10::1759428379::res://.godot/exported/133200997/export-424cafac01f45de89b53d7dc0c0edabc-Test.scn
